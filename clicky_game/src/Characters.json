@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Tweetie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyydHdGEImg0gbCir3z8crsz5x6PwNGmOZjheyTdF5-uzlRuYzyA",
+    "clicked": false 
+  },
+  {
+    "id": 2,
+    "name": "Mickey",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6l6Jrdp9kIEnwRRrRfP3XMHQ-1ki80rYs4vm_YJABOONRNzVQIA",
+    "clicked": false     
+  },
+  {
+    "id": 3,
+    "name": "Dora",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSML5U7eOMFlVs43nmY655KSMFE3iVnzGe32b9I4Tl1ih9kBPPX1Q",
+    "clicked": false     
+  },
+  {
+    "id": 4,
+    "name": "Bee",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwQRimDmcwvO-I0i7vGLxKETTiREovOxXj5NqcpkHDp-oLYrNLA",
+    "clicked": false     
+  },
+  {
+    "id": 5,
+    "name": "Jerry",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8iglnYN3aqr_aWcZmgDZ7iBLdwPLdu3rcxf4-qZNbQfNnLSd7w",
+    "clicked": false     
+  },
+  {
+    "id": 6,
+    "name": "Jerry",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXdwzbDv7BBSHsQ-BsemtsT9bX2EyCukINoXr7FxZJ8dToXiS",
+    "clicked": false    
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "clicked": false     
+  },
+  {
+    "id": 8,
+    "name": "Homer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRyisHoo3hw2gjOwsEhjMk_WCDp0JmJgLX4K3e6lwmT_i4WZpsjg",
+    "clicked": false     
+  },
+  {
+    "id": 9,
+    "name": "Pickachoo",
+    "image": "http://img0.gm.gtsstatic.com/pokemon/pikachu-pokemon-center_14256_w620.jpg",
+    "clicked": false     
+  },
+  {
+    "id": 10,
+    "name": "Krusty Clown",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgrpHGAdBc6JqRKcIzlb9BMI6UX6n9GPTwgS2IySufPF6EJeCfgQ",
+    "clicked": false     
+  },
+  {
+    "id": 11,
+    "name": "Lisa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitoIfUzN7hZ0nzUrW-z-UMq3g8blbnvicORpsQiZHcU5Jhvc3",
+    "clicked": false     
+  },
+  {
+    "id": 12,
+    "name": "Bart",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GK02KbjQeZT1mZvH8nwhjwBLnuVXmBOJN2qMpCb4tf9ly7dnSg",
+    "clicked": false     
+  }
+]
