@@ -30,4 +30,4 @@ This is a memory game using React. The application's UI is split into four compo
 
 
 
-## [click here to view app] ()
+## [click here to view app] (https://Anantpatel123.github.io/Hw_14_Clicky-Game)
